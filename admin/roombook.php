@@ -75,7 +75,7 @@ include '../config.php';
                     <select name="NoofRoom" class="selectinput">
 						<option value selected >No of Room</option>
                         <option value="1">1</option>
-                        <!-- <option value="1">2</option>
+                        <!-- <option value="2">2</option>
                         <option value="1">3</option> -->
                     </select>
                     <select name="Meal" class="selectinput">

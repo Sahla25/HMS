@@ -28,6 +28,8 @@ if($usermail == true){
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <!-- fontowesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <!-- Github -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- sweet alert -->
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <link rel="stylesheet" href="./admin/css/roombook.css">
@@ -283,12 +285,13 @@ if($usermail == true){
 
   <section id="contactus">
     <div class="social">
-      <i class="fa-brands fa-instagram"></i>
-      <i class="fa-brands fa-facebook"></i>
-      <i class="fa-solid fa-envelope"></i>
+      <a href="https://www.instagram.com/keshri__shivam_/?next=%2F"> <i class="fa-brands fa-instagram"></i></a>
+      <a href="https://www.facebook.com/profile.php?id=100013564661250"><i class="fa-brands fa-facebook"></i></a>
+      <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://github.com/Shivam-art-creator"><i class="fa fa-github" style="font-size:36px"></i></a>
     </div>
     <div class="createdby">
-      <h5>Created by @tushar</h5>
+      <h5>Owned by @keshri_shivam</h5>
     </div>
   </section>
 </body>
